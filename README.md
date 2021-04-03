@@ -15,7 +15,7 @@ SPA (Single Page App) for viewing water stock from stores.
 
 ## `App Specs`
 - API was build using Laravel v8
-    - the DB choosen for this project is MySQL and was created using migration
+    - the DB chosen for this project is MySQL and was created using migration
 - App was build using VueJS v2. Pugin that were used in this project:
     - vuex
     - vue-router
